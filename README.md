@@ -242,7 +242,7 @@ tools:context="com.example.android.intents.SecondActivity">
 
 ## Output:
 
-![image](https://user-images.githubusercontent.com/94154683/235362253-7d66e207-6f83-4a7d-a974-2e76a39f4b5c.png)
+![image](https://user-images.githubusercontent.com/94154683/235362439-d203db7e-fc7f-44d4-9066-5ebf8d191dfa.png)
 
 ## Explicit Intent
 ![image](https://user-images.githubusercontent.com/94154683/235362297-d1b5c94c-a992-4501-8318-2694d401f3a3.png)
